@@ -1,0 +1,19 @@
+
+Customer ID: 123
+Name: Nikita
+Age: 23
+Nationality: Russia
+Gender: Male
+Mobile Number: 123
+Email: 123@gmail.com
+
+
+
+Customer ID: 1
+Name: 1
+Age: 1
+Nationality: 1
+Gender: 1
+Mobile Number: 11
+Email: 1
+
