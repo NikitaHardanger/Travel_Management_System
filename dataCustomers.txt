@@ -1,0 +1,9 @@
+
+Customer ID: 1
+Name: Nikita
+Age: 23
+Nationality: USA
+Gender: Male
+Mobile Number: +11001111
+Email: 123@gmail.com
+
