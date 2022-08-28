@@ -16,7 +16,7 @@ void Customers::getDetails()
 		cin >> name;
 		cout << "\n\t\tEnter Age: ";
 		cin >> age;
-		cout << "\n\t\tEnter Nationality: ";
+		cout << "\n\t\tEnter Citizenship: ";
 		cin >> nationality;
 		cout << "\n\t\tEnter Gender: ";
 		cin >> gender;

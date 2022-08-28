@@ -47,7 +47,7 @@ void Functions::mainMenu()
 	cout << "\n\t\t                Main Menu                  \n";
 	cout << "\n\t\t~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~";
 	cout << "\n\t\t|\tCustomer Management         -> 1  |";
-	cout << "\n\t\t|\tCabs Management             -> 2  |";
+	cout << "\n\t\t|\tTaxi Management             -> 2  |";
 	cout << "\n\t\t|\tBookings Management         -> 3  |";
 	cout << "\n\t\t|\tCharges & Bill              -> 4  |";
 	cout << "\n\t\t|\tExit                        -> 5  |";

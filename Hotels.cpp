@@ -8,7 +8,7 @@ using namespace std;
 void Hotels::hotels()
 {
 menu:
-	string hotels[] = { "Radisson", "Comfort Hotel", "Holdiay Inn" };
+	string hotels[] = { "Radisson", "Comfort Hotel", "Holiday Inn" };
 
 	cout << "\n\t\t       You can also book a hotel";
 	cout << "\n\t\t   We collaborated with these hotels\n";
@@ -58,19 +58,19 @@ menu:
 		case 1:
 			hotelCost = 100;
 			cout << "\n\t\tYou have successfully booked Standard room at Radisson";
-			cout << "\n\t\tGoto Menu and take the receipt";
+			cout << "\n\t\tGo to Menu and take the receipt";
 			backToMainMenu();
 			break;
 		case 2:
 			hotelCost = 350;
 			cout << "\n\t\tYou have successfully booked Junior Suite at Radisson";
-			cout << "\n\t\tGoto Menu and take the receipt";
+			cout << "\n\t\tGo to Menu and take the receipt";
 			backToMainMenu();
 			break;
 		case 3:
 			hotelCost = 800;
 			cout << "\n\t\tYou have successfully booked President Luxe at Radisson";
-			cout << "\n\t\tGoto Menu and take the receipt";
+			cout << "\n\t\tGo to Menu and take the receipt";
 			backToMainMenu();
 			break;
 		default:
@@ -114,19 +114,19 @@ menu:
 		case 1:
 			hotelCost = 100;
 			cout << "\n\t\tYou have successfully booked Standard room at Comfort Hotel";
-			cout << "\n\t\tGoto Menu and take the receipt";
+			cout << "\n\t\tGo to Menu and take the receipt";
 			backToMainMenu();
 			break;
 		case 2:
 			hotelCost = 350;
 			cout << "\n\t\tYou have successfully booked Junior Suite at Comfort Hotel";
-			cout << "\n\t\tGoto Menu and take the receipt";
+			cout << "\n\t\tGo to Menu and take the receipt";
 			backToMainMenu();
 			break;
 		case 3:
 			hotelCost = 800;
 			cout << "\n\t\tYou have successfully booked President Luxe at Comfort Hotel";
-			cout << "\n\t\tGoto Menu and take the receipt";
+			cout << "\n\t\tGo to Menu and take the receipt";
 			backToMainMenu();
 			break;
 		default:
@@ -139,13 +139,13 @@ menu:
 		break;
 	case 3:
 		cout << "\n\t\t___________________________________________\n";
-		cout << "\n\t\t\t   Welcome to Holdiay Inn\n";
+		cout << "\n\t\t\t   Welcome to Holiday Inn\n";
 		cout << "\n  Holiday Inn is a multifunctional complex in the historical center of London, ";
 		cout << "\n     consisting of a 4 - star business hotel, conferenceand banquet rooms,";
 		cout << "\na cozy lounge area with a fireplace. Everything is concentrated on the territory";
 		cout << "\n   of the hotel for the most comfortable restand pleasant pastime of guests.\n";
 
-		cout << "\n\t\t\tRooms offered by Holdiay Inn:";
+		cout << "\n\t\t\tRooms offered by Holiday Inn:";
 
 		cout << "\n\t\t___________________________________________\n";
 		cout << "\n\t\t1. Standard room";
@@ -169,19 +169,19 @@ menu:
 		case 1:
 			hotelCost = 100;
 			cout << "\n\t\tYou have successfully booked Standard room at Holdiay Inn";
-			cout << "\n\t\tGoto Menu and take the receipt";
+			cout << "\n\t\tGo to Menu and take the receipt";
 			backToMainMenu();
 			break;
 		case 2:
 			hotelCost = 350;
 			cout << "\n\t\tYou have successfully booked Junior Suite at Holdiay Inn";
-			cout << "\n\t\tGoto Menu and take the receipt";
+			cout << "\n\t\tGo to Menu and take the receipt";
 			backToMainMenu();
 			break;
 		case 3:
 			hotelCost = 800;
 			cout << "\n\t\tYou have successfully booked President Luxe at Holdiay Inn";
-			cout << "\n\t\tGoto Menu and take the receipt";
+			cout << "\n\t\tGo to Menu and take the receipt";
 			backToMainMenu();
 			break;
 		default:

@@ -59,7 +59,7 @@ menu:
 		case 1:
 			lastCabCost = cabCost;
 			cout << "\n\t\tYou have successfully hired a Standard Cab";
-			cout << "\n\t\tGoto menu and take the receipt";
+			cout << "\n\t\tGo to menu and take the receipt";
 			backToMainMenu();
 			break;
 		case 2:
@@ -92,7 +92,7 @@ menu:
 		case 1:
 			lastCabCost = cabCost;
 			cout << "\n\t\tYou have successfully hired a Luxury Cab";
-			cout << "\n\t\tGoto menu and take the receipt";
+			cout << "\n\t\tGo to menu and take the receipt";
 			backToMainMenu();
 			break;
 		case 2:
@@ -124,7 +124,7 @@ menu:
 		case 1:
 			lastCabCost = cabCost;
 			cout << "\n\t\tYou have successfully hired a Limo Cab";
-			cout << "\n\t\tGoto menu and take the receipt";
+			cout << "\n\t\tGo to menu and take the receipt";
 			backToMainMenu();
 			break;
 		case 2:
